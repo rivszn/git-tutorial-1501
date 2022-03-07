@@ -18,6 +18,9 @@ func _ready():
 func hello_forest():
 	print("hello forest")
 
+func hello_antonio():
+	print("hello antonio")
+
 func hello_uzonna():
 	print("Hello Uzonna")
 
