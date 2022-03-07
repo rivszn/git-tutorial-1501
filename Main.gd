@@ -9,8 +9,8 @@ extends Node2D
 # Called when the node enters the scene tree for the first time.
 func _ready():
 	print("hello forest")
+	hello_forest()
 
-    hello_forest()
 func hello_forest():
 	print("hello forest")
 
