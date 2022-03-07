@@ -10,6 +10,10 @@ extends Node2D
 func _ready():
 	print("hello forest")
 
+hello_forest()
+func hello_forest():
+	print("hello forest")
+
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 #func _process(delta):
