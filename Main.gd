@@ -10,10 +10,14 @@ extends Node2D
 func _ready():
 	print("hello forest")
 	hello_forest()
+	hello_jyourth()
 	hello_foresto()
 
 func hello_forest():
 	print("hello forest")
+
+func hello_jyourth():
+	print("Hello jyourth!)
 
 func hello_foresto():
 	print("hello foresto")
