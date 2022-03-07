@@ -10,6 +10,7 @@ extends Node2D
 func _ready():
 	print("hello forest")
 	hello_forest()
+	hello_jyourth()
 
 func hello_forest():
 	print("hello forest")
