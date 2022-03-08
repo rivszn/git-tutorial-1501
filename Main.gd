@@ -28,7 +28,7 @@ func hello_sulaksa():
 	print("hello sulaksa")
 
 func hello_jyourth():
-	print("Hello jyourth!)
+	print("Hello jyourth!")
 
 func hello_foresto():
 	print("hello foresto")
